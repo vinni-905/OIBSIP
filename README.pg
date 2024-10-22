@@ -1,0 +1,6 @@
+# simple password generator
+
+## A brief description about the project
+
+-It is a python based application that creates strong,random passwords for users.
+-It enhances security by generating passwords that are difficult to guess by protecting sensitive information.
